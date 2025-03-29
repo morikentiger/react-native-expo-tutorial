@@ -52,6 +52,7 @@ const config = {
     //'.eslintrc.cjs',
     "babel.config.js",
     //'metro.config.js'
+    '*.json'
   ],
 };
 
