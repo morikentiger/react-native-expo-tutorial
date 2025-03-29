@@ -22,3 +22,6 @@ const styles = StyleSheet.create({
 });
 
 registerRootComponent(App);
+
+// app.tsx の末尾に追加
+export default App;
